@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mujtaba Abdullahi
 
-## 🚀 Software Developer | Full Stack Developer
+## 🚀 Software Developer
 
 Welcome to my GitHub! I am a passionate and results-driven software developer currently working at the **Ministry of Telecommunication and Information Technology**. I have extensive experience in both public and private sectors, delivering robust and scalable solutions.
 
