@@ -11,6 +11,7 @@ Welcome to my GitHub! I am a passionate and results-driven software developer cu
 - **Backend:** Java (Spring Boot), C#(.Net Core)
 - **Frontend:** React, Angular
 - **Microservices:** Spring Boot
+- **Docker**
 - **Database:** PostgreSQL, MYSQL, SQL Server
 - **Design:** Figma
 
