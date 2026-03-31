@@ -8,11 +8,11 @@ Welcome to my GitHub! I am a passionate and results-driven software developer cu
 
 ### 🛠️ Tech Stack
 
-- **Backend:** Java (Spring Boot), C#(.Net Core)
-- **Frontend:** React, Angular
+- **Backend:** Java (Spring Boot)
+- **Frontend:** React
 - **Microservices:** Spring Boot
 - **Docker**
-- **Database:** PostgreSQL, MYSQL, SQL Server
+- **Database:** PostgreSQL, MYSQL
 - **Design:** Figma
 
 ---
